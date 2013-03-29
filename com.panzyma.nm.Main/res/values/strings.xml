@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello everyone, Nordis Mobile!</string>
+    <string name="app_name">Nordis Mobile</string>
+	<string name="tipoped">selecione tipo pedido</string>
+    <string name="txtDemo">Nordis Mobile by Osmar David Benavidez Zelaya | osmar.benavidez@panzyma.com.ni/obenavidez@panzyma.com.ni </string>
+    
+    <!-- Activity Titles -->
+    <string name="HomeActivityTitle">Nordis Mobile | Panzyma Lab</string>
+    <string name="FeedbackActivityTitle">Feedback</string>
+    <string name="ClientActivityTitle">Nordis Mobile | Modulo de Cliente</string>
+    <string name="ProductoActivityTitle">Nordis Mobile | Productos</string>
+    <string name="PedidoActivityTitle">Nordis Mobile | Pedidos</string>
+    <string name="ReciboCollActivityTitle">Nordis Mobile | Recibos Colector</string>
+    <string name="DevolucionActivityTitle">Nordis Mobile | Devoluciones</string>
+    <string name="ConfiguracionActivityTitle">Nordis Mobile | Configuración</string>
+    
+    <!-- Dialogs Titles -->
+    <string name="FichaClienteDialogTitle">Nordis Mobile | Ficha del Cliente</string>
+    
+     <!-- cliente.xml titles --> 
+    <string name="txtclient_tittle">Lista de Clientes</string> 
+    <string name="txtclient_entymessage">No hay Registros&#8230;</string> 
+    
+</resources>
